@@ -47,7 +47,7 @@ const Index = () => {
         <Space direction="vertical" size={8}>
           <div>
             <img
-              src="https://www.canva.com/design/DAFlb5aCV8Y/2Xbnx7vx3bG3BUZE2N42UQ/view?utm_content=DAFlb5aCV8Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+              src="https://github.com/6ix78/supabase-authentication/blob/main/pages/logo.png"
               width="96"
             />
             <Typography.Title level={3}>
