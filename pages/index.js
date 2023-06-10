@@ -46,12 +46,9 @@ const Index = () => {
       return (
         <Space direction="vertical" size={8}>
           <div>
-            <img
-              src="logo.png"
-              width="96"
-            />
+           
             <Typography.Title level={3}>
-              Welcome to Supabase Auth
+              Welcome to Alphavars
             </Typography.Title>
           </div>
           <Auth
